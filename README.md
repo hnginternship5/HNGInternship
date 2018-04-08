@@ -1,17 +1,28 @@
 # Hotel.NG Intership 4
 
-Please invite others who are interested in learning to code. Use this link: [https://join.slack.com/t/hnginternship4/shared_invite/enQtMzQwOTU4NzAwNjExLWQ0NWFlZDBmNjRkMTRkNGZmYjQ5MzA0YmUzZDBiZDEzOTBkZGE1ZWUxZTI1YjkxMTQ5N2MyZTMyMzBmMTEyOWM](URL)
 
-Please do invite all others who may be interested in the internship
+
+Table of Contents
+=================
+  * [Introduction](#introduction)
+  * [Stage 0](#stage-0)
+  * [Stage 1](#stage-1-setting-up-of-environment-for-coding)
+      * [Pre-requisite](#pre-requisite)
+      * [Task](#task)
+  * [Stage 2](#stage-2-learning-collaborative-coding)
+
+
+---
+## Introduction
+ Please invite others who are interested in learning to code. Use this link: [Click Me!](https://join.slack.com/t/hnginternship4/shared_invite/enQtMzQwOTU4NzAwNjExLWQ0NWFlZDBmNjRkMTRkNGZmYjQ5MzA0YmUzZDBiZDEzOTBkZGE1ZWUxZTI1YjkxMTQ5N2MyZTMyMzBmMTEyOWM)
+
+> Please do invite all others who may be interested in the internship
 
 Notice: 
 *Setting up your profile information such as, names, display names, what you can do, (off-course that will change as soon as you learn on), profile image, phone number and status is very important.*
 
 
-**Everyone else, please set your profile picture - we always disable all those without profile pictures**
-
-
-
+**Please set your profile picture - we always disable all those without profile pictures**
 ---
 ## Stage 0
 *If you know you have no knowledge of programming at all, join [#stage0](https://hnginternship4.slack.com/archives/CA2BESFFA)*
@@ -21,7 +32,7 @@ As soon as you complete stage 1 task, please exit stage0 channel
 ---
 ## Stage 1 (Setting up of environment for Coding)
 
-### Pre-resquite
+### Pre-requisite
 1. Set your profile picture.
 2. Setup a Git account and learn how to use Git. 
     * Free GitHub private account for the next 1 year. Use this link to redeem: [https://github.com/redeem/hng_ingressive_github](URL), or use the coupon code HNG_INGRESSIVE_GITHUB on your existing github account. Once done, give a shout-out to @GitHubCommunity @GitHubEducation and @_Ingressive_ on Twitter
@@ -74,52 +85,12 @@ As soon as you complete stage 1 task, please exit stage0 channel
         Step 7 - To verify your installation, type the command `docker run hello-world` then if that runs successfully, you are set to go
         
 
-    * #### Guide for installing docker on Ubuntu 16.04 and 17.10
-    * 
-        Make sure you're using a user that has *sudo* privileges
-
-        *NOTE!!!*
-        Do not run these commands as a root user i.e. your terminal would use the # symbol, always make sure you're seeing this symbol $
-        I take no responsibility for what ever damage you incur on your system is you do the wrong thing :walking:
-
-        Step 1 - Update the apt package index
-            `$ sudo apt-get update`
-
-        Step 2 - Install packages to allow `apt` to use a repository over HTTPS
-           ` $ sudo apt-get install \`
-            `$apt-transport-https \`
-            `ca-certificates \`
-            `curl \`
-           ` software-properties-common```
-
-        Step 3 - Add docker's official GPG key
-            `$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -`
-        Verify that you now have the key with the fingerprint `9DC8 5822 9FC7 DD38 854A E2D8 8D81 803C 0EBF CD88`, by searching for the last 8 characters of the fingerprint.
-            `$ sudo apt-key fingerprint 0EBFCD88`
-
-       ``pub   4096R/0EBFCD88 2017-02-22``
-      Key fingerprint = 9DC8 5822 9FC7 DD38 854A  E2D8 8D81 803C 0EBF CD88
-        uid                  Docker Release (CE deb) <docker@docker.com>
-        sub   4096R/F273FCD8 2017-02-22```
-
-        Step 4 - Add the Docker repository to APT sources
-            `$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"`
-
-        Step 5 - Update the `apt` package index
-            `$ sudo apt-get update`
-
-        Step 6 - Finally, install docker-ce
-            `$ sudo apt-get install docker-ce`
-
-        Step 7 - Verify docker has been installed
-            $ sudo docker `run hello-world`
-        If this runs successfully, then you're almost golden.
 
 5. Get a basic PHP environment working on your system (Hello World).
 
 ### Task
 To pass stage 1, 
-Go to #stage1
+Go to [#stage1](https://hnginternship4.slack.com/messages/CA2DJC5JB)
 You will need the following:
 
 1. Design a very simple page in Figma
