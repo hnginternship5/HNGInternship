@@ -5,8 +5,8 @@
 Table of Contents
 =================
   * [Introduction](#introduction)
-  * [Prerequisite](prerequisite)
-  * [Getting Started](getting-started)
+  * [Prerequisite](prerequisite.md)
+  * [Getting Started](getting-started.md)
   * [Code of Conduct](coc.md)
   * [FAQ](FAQ.md)
 
