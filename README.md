@@ -62,5 +62,5 @@ Notice:
 *Setting up your profile information such as, name, display name, what you can do, (of course that will change as soon as you learn on), profile image, phone number and status is very important.*
 
 
-**Please set your profile picture - we always disable all those without profile pictures**
+**Please set your profile picture - we will disable all users without profile pictures**
 ---
