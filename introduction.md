@@ -2,7 +2,7 @@
 
 > The HNG internship is a 3-month remote internship designed to find and develop the most talented software developers.
 
- Please invite others who are interested in learning to code. Using this link: [Click Me!](https://join.slack.com/t/hnginternship5/shared_invite/enQtNTgwMTIwMTQ4MDMyLTgyYTU1MTc5YzZiZTJmN2E1MmI0MGJhNmYzY2ZiNzdhNDEwZjM3ODlkY2FlMjNlMmNmMzE2NDQ0OWJmOWJhNGY)
+ Please invite others who are interested in learning to code. Using this link: [https://bit.ly/join_hnginternship5](https://bit.ly/join_hnginternship5)
 
 > Please do invite others who may be interested in the internship
 
