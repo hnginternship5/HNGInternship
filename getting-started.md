@@ -20,6 +20,5 @@ Do not **@channel**, **@here**, **@everyone** in **#general**.
 - Do not change or erase channel subject
 - Post relevant materials and resources in #resources *ONLY*
 - Respect each other and the tools we use.
-- Please, DO NOT create a channel, join the existing channels and get along.
 - Don't upload copyrighted content, unless it is freely available from the publisher.
 - If you have any issue, please contact any mentor. You can find them with a :star: beside their handles.
