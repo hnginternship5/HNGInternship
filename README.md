@@ -7,6 +7,7 @@ Table of Contents
   * [Introduction](#introduction)
   * [Prerequisite](prerequisite)
   * [Getting Started](getting-started)
+  * [Code of Conduct](coc.md)
   * [FAQ](FAQ.md)
 
 ## Introduction
