@@ -12,11 +12,10 @@ HNGInternship is dedicated to providing a harassment-free experience for everyon
 
 Behaviour:
 ----------------
-1. Do not @channel, @everyone in #general.
-2. Respect each other and the tools we use.
-3. Check the channel list before you decide to make a new channel. If a channel already exists that you want to create, just join it and start chatting!
-4. Don't upload copyrighted content, unless it is freely available from the publisher.
-5. If you have an issue, contact an admin.
+1. Do not @channel, @here or @everyone in #general.
+2. Respect each other and the tools we use.!
+3. Don't upload copyrighted content, unless it is freely available from the publisher.
+4. If you have an issue, contact any mentor. You can find them with a :star: beside their handles
 
 Logs and Records:
 -----------------
