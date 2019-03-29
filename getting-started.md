@@ -10,13 +10,13 @@ When your profile pops up, please fill out **Full Name**, **Display Name**, **Pr
 
 ![A nice nametag](images/rules_nametag_filled.png)
 
-Join #getting-started for starter instructions.
+Join **#getting-started** for starter instructions and **#announcements** for updates.
 
 Introduce yourself
 
 ## Rules
 
-Do not @channel, @here, @everyone in #general.
+Do not **@channel**, **@here**, **@everyone** in **#general**.
 - Do not change or erase channel subject
 - Post relevant materials and resources in #resources *ONLY*
 - Respect each other and the tools we use.
