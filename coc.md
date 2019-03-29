@@ -28,8 +28,27 @@ Message Retention:
 
 Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of HNG Internship. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
+Reporting
+---------
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can.
+
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
+
 Harassment:
------------
+------------
+
+As someone who is part of this Slack, you agree that:
+
+* We are collectively and individually committed to safety and inclusivity.
+* We have zero tolerance for abuse, harassment, or discrimination.
+* We respect people’s boundaries and identities.
+* We refrain from using language that can be considered oppressive (systemically or otherwise), 
+  eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - 
+  this includes (but is not limited to) various slurs.
+* We avoid using offensive topics as a form of humor.
+
+Harassment includes offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption of discussions or other events, and unwelcome sexual attention.
 
 Harassment includes:
 
@@ -45,28 +64,6 @@ Harassment includes:
 * Unwelcome sexual attention
 * Continued one-on-one communication after requests to cease
 * Publication of non-harassing private communication
-
-Reporting
----------
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can.
-
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
-
-Harrassment:
-------------
-
-As someone who is part of this Slack, you agree that:
-
-* We are collectively and individually committed to safety and inclusivity.
-* We have zero tolerance for abuse, harassment, or discrimination.
-* We respect people’s boundaries and identities.
-* We refrain from using language that can be considered oppressive (systemically or otherwise), 
-  eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - 
-  this includes (but is not limited to) various slurs.
-* We avoid using offensive topics as a form of humor.
-
-Harassment includes offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption of discussions or other events, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
