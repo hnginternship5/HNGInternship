@@ -1,4 +1,4 @@
-# Hotel.NG Intership
+# Hotel.NG Internship
 
 
 
