@@ -15,3 +15,7 @@ Notice:
 
 **Please set your profile picture - we will disable all users without profile pictures**
 ---
+
+## Learning Tracks
+1. Machine Learning
+2. Design Track
