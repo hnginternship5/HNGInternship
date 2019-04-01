@@ -4,6 +4,8 @@
 
  Please invite others who are interested in learning to code. Using this link: [https://bit.ly/join_hnginternship5](https://bit.ly/join_hnginternship5)
 
+ Note that this link will be closed at 12 noon on 1st April, 2019.
+
 > Please do invite others who may be interested in the internship
 
 Notice: 
